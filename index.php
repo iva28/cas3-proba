@@ -39,7 +39,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <title>FON: Zakazivanje kolokvijuma</title>
+    <title>Fakultet organizacionih nauka: Zakazivanje kolokvijuma</title>
 
 </head>
 <body>
